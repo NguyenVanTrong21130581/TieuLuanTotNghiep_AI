@@ -14,7 +14,7 @@ Repo chứa các Jupyter Notebooks ứng với từng phần của dự án:
    - `Cardiomegaly_Disease_Classifier_RF_SVM_KNN.ipynb`: Huấn luyện và đánh giá bằng các thuật toán Machine Learning truyền thống.
    - `cardiomegaly-disease-classifier-efficientnet.ipynb`: Huấn luyện bằng mô hình Deep Learning (CNN - EfficientNet) trên môi trường Kaggle Notebook.
    - `Cardiomegaly_Disease_Classifier.ipynb`: Notebook tổng hợp các bước tiền xử lý và xây dựng mô hình.
-
+   - Link File Doc tiểu luận: https://ap.wps.com/l/cbTaqgjaxDcqr3tC
 2. **Data Mining - Adult Dataset (Khai phá dữ liệu & Dự đoán thu nhập)**
    - `ProjectDM.ipynb` (hoặc `ProjectDataMining.ipynb`): Khám phá dữ liệu (EDA), tiền xử lý và áp dụng các thuật toán phân lớp để dự đoán mức thu nhập.
 
